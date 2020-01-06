@@ -1,0 +1,9 @@
+form{
+  background-color: #f4f5f7;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+form label{
+  text-align: center;
+}
